@@ -109,6 +109,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+venv_dat_sci24 
+
+# Git setup 
+git_setup.sh
 
 # Spyder project settings
 .spyderproject
