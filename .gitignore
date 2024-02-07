@@ -141,6 +141,6 @@ syllabus/classes/class3/tmp.py
 # Solutions to assignments
 solutions/*
 backups/*
-requirements.txt
+#requirements.txt
 *model.pt
 # 
