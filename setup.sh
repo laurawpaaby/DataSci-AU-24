@@ -10,6 +10,8 @@ python3 -m venv venv_dat_sci24
 # activate virtual environment
 source ./venv_dat_sci24/bin/activate
 
+python -m ipykernel install --user --name=venv_dat_sci24
+
 # Install requirements
 python3 -m pip install --upgrade pip
 python3 -m pip install -r requirements.txt
